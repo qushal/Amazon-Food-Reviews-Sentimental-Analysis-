@@ -39,7 +39,7 @@ The dataset used is a subset of the **Amazon Fine Food Reviews** dataset:
 1. Clone this repository:
 
     ```
-    git clone https://github.com/yourusername/sentiment-analysis-python.git
+    git clone https://github.com/qushal/sentiment-analysis-python.git
     cd sentiment-analysis-python
     ```
 
@@ -80,5 +80,24 @@ The dataset used is a subset of the **Amazon Fine Food Reviews** dataset:
     - Visualize results and compare models
 3. Use the included **testing code** to validate the sentiment models on custom sentences.
 
-### Example: Testing Sentiment Models on Custom Sentences
+
+---
+
+## References
+
+- VADER Sentiment Analyzer: [https://github.com/cjhutto/vaderSentiment](https://github.com/cjhutto/vaderSentiment)  
+- CardiffNLP RoBERTa Twitter Sentiment Model: [https://github.com/cardiffnlp/tweeteval](https://github.com/cardiffnlp/tweeteval)  
+- Huggingface Transformers Documentation: [https://huggingface.co/transformers/](https://huggingface.co/transformers/)  
+
+---
+
+## License
+
+This project is provided for educational and demonstration purposes only.
+
+---
+
+If you encounter any issues or have questions, feel free to open an issue or contact the repository maintainer.
+
+
 
